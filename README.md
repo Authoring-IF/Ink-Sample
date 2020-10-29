@@ -10,5 +10,6 @@
 * The message reads either 'You have won' or 'You have lost', depending on how much it was disturbed by the player while the room was dark.
 * The act of reading the message ends the game.
 
-## Ink Version of Cloak of Darkness Game
+## The Ink Version
 
+Write something about Inkle/Ink/Inky...
