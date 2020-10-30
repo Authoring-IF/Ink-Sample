@@ -1,5 +1,5 @@
-# title: Cloak of Inky Darkness
-# author: Shin
+# title: Cloak of Darkness
+# author: Alex Proudfoot
 
 VAR score = 0
 VAR turns = 0
